@@ -11,6 +11,9 @@ Open two or more tabs or browsers to run the frontend and chat with each other
 
 
 
+
+
+
 How to run the Backend
 
 Clone the repository and start the backend server first
