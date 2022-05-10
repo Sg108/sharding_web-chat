@@ -1,4 +1,4 @@
 backend/node_modules
 frontend/chat-app/node_modules
-frontend/chat-app/
+frontend/chat-app
 frontend/.gitignore
